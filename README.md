@@ -1,6 +1,6 @@
 # Header
 ```
 {
-    name: John
+    "name": "John"
 }
 ```
